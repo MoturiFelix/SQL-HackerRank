@@ -12,8 +12,6 @@ Extract the first letter of each occupation, combine it with the person's name, 
 Group people by occupation, count each group, convert occupation names to lowercase, format the results as sentences, and sort by count in ascending order, then alphabetically when counts are equal.
 
 
-
-
 ## Solution
 
 ```SQL
